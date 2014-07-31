@@ -3,3 +3,5 @@
 print "echo test";
 
 print "issue 556 branch added";
+
+print "issue 556 second commit";
